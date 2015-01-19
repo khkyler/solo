@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  My product takes all the work out of deciding where to got to lunch.  Rather than ask all of your friends then try to make a choice based on their answers you can just ask "Hey everybody its lunch time" to decide for you.
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  This is designed for anyone who goes out to lunch.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  The product will allow the user to add more places to the list of lunch spots.  When lunchtime comes it will pick a place for the user or users to go to lunch.  No one person or group will have to choose which place to have lunch at.
 
 ## Problem ##
   > Describe the problem your product solves.
+  The problem of wasting time choosing a place for lunch rather than actually having lunch is now a thing of the past!
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
 
+  "hey everybody its lunch time" takes the work out of picking a lunch spot by picking it for you.
+
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  "If you are exahusted from picking a place to got to lunch, your worries are finailly gone!" -Karim
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  just go to the website at lunch and click on the button!  Or add your favorite resturant to the list!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-
+  "We avoided a fistfight last week thanks to this new app" -Yan 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  If you are tired of picking your lunch spot got to "lunch.com"

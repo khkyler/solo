@@ -1,0 +1,23 @@
+{
+  "name": "lunch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khkyler/2014-12-solo.git"
+  },
+  "author": "Karim H Kyler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khkyler/2014-12-solo/issues"
+  },
+  "homepage": "https://github.com/khkyler/2014-12-solo",
+  "dependencies": {
+    "express": "^4.11.0",
+    "firebase": "^2.1.1"
+  }
+}
