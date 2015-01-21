@@ -1,0 +1,78 @@
+body{
+  background-color: #030002;
+}
+h1{
+  text-align: center;
+  color: white;
+  font: tahoma;
+}
+.container{
+  margin: 0 auto;
+  width: 900px;
+  display: block;
+}
+.button-container{
+  padding: 10px;
+  display: block;
+}
+.lunch{
+  display: inline-block;
+  padding: none;
+  margin: none;
+  background: #DE2A51;
+  width: 200px;
+  height: 200px;
+  border: 0px;
+  border-radius: 100%;
+  
+}
+
+.result{
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 100%;
+  color: white;
+  font-size: 2.5em;
+  font: Tahoma;
+  float: right;
+
+}
+
+.button{
+  background: #DE2A51;
+  color: white;
+  font-size: 1.5em;
+  padding: 2px;
+  font: Tahoma;
+}
+
+
+span.stars, span.stars span{
+  display:block;
+  background: url(/img/stars.png) 0 -16px repeat-x;
+  width: 80px;
+  height: 16px;
+}
+span.stars span{
+  background-position: 0 0;
+}
+.addspot{
+  float: right;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.spots{
+  float: left;
+  background: #A1B45B;
+  max-width: 100%;
+}
+.getbutton{
+  width:110px;
+  height: 55px;
+  border-radius: 3px;
+}
+.form{
+  width: 200px;
+  height: 30px;
+  background-color: #C7B6AC;
+}

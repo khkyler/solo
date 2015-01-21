@@ -1,0 +1,21 @@
+{
+  "name": "2014-12-solo",
+  "version": "1.0.0",
+  "homepage": "karimhkyler.com",
+  "authors": [
+    "Karim H Kyler <karim.kyler@gmail.com>"
+  ],
+  "description": "solo project",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-audio": "~1.4.1"
+  }
+}
